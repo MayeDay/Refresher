@@ -6,4 +6,5 @@
  *
  */
 module returnGame {
+	requires java.desktop;
 }

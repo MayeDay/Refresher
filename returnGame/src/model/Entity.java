@@ -1,6 +1,6 @@
 package model;
 
-public class Entity {
+public abstract class Entity {
 	private String name;
 	private float healthPoints;
 	private float manaPoints;
